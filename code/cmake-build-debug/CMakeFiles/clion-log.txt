@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\fahre_000\Desktop\proga\dsba-ads2-wshp04-master\code
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ADS2Workshop4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ugraph">
+				<Option output="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/ugraph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 ugraph"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ugraph/fast">
+				<Option output="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/ugraph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 ugraph/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests">
+				<Option output="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/../src"/>
+					<Add directory="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tests"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests/fast">
+				<Option output="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/../src"/>
+					<Add directory="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tests/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/grviz/gen_dot_writer.hpp">
+			<Option target="ugraph"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/grviz/ugraph_dotwriter.hpp">
+			<Option target="ugraph"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/lbl_ugraph.hpp">
+			<Option target="ugraph"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/main.cpp">
+			<Option target="ugraph"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp">
+			<Option target="ugraph"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph_algos.hpp">
+			<Option target="ugraph"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/gtest/gtest-all.cc">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/gtest/gtest_main.cc">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/lbl_ugraph_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/ugraph_algos_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/ugraph_dotwriter_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/ugraph_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

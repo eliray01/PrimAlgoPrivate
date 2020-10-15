@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/lbl_ugraph.hpp
+ugraph.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+map
+-
+
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/main.cpp
+iostream
+-
+ugraph.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+lbl_ugraph.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/lbl_ugraph.hpp
+ugraph_algos.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph_algos.hpp
+
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+set
+-
+map
+-
+
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph_algos.hpp
+set
+-
+vector
+-
+ugraph.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+lbl_ugraph.hpp
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/src/ugraph/lbl_ugraph.hpp
+map
+-
+

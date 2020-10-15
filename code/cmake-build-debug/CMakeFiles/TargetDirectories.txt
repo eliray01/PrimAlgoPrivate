@@ -1,0 +1,8 @@
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/CMakeFiles/ugraph.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/CMakeFiles/tests.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+C:/Users/fahre_000/Desktop/proga/dsba-ads2-wshp04-master/code/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
